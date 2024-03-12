@@ -29,7 +29,9 @@ List for Services provided and functionality
    <img width="1280" alt="Screenshot 2024-03-12 at 5 34 27 PM" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/4e862e93-2956-4a3d-836a-a93b5c85937c">
 
 7) Add new cart
+   
+<img width="1280" alt="Screenshot 2024-03-12 at 5 40 08 PM" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/18c591d4-abfb-4be3-b05c-76b4cc87d1d2">
+
    <img width="1280" alt="Screenshot 2024-03-12 at 5 40 15 PM" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/6c5438e7-6a73-4f34-acdb-fdcef181bb26">
 
-<img width="1280" alt="Screenshot 2024-03-12 at 5 40 08 PM" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/18c591d4-abfb-4be3-b05c-76b4cc87d1d2">
 
