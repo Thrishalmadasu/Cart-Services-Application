@@ -25,4 +25,8 @@ List for Services provided and functionality
 5) Get user cart
    <img width="1280" alt="Screenshot 2024-03-12 at 5 26 49 PM" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/2873e1f6-3fdc-45e1-8fd7-e20402cf5aca">
 
+6) Get Carts in given Date range
+   <img width="1280" alt="Screenshot 2024-03-12 at 5 34 27 PM" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/4e862e93-2956-4a3d-836a-a93b5c85937c">
+
+
    
