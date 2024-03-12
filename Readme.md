@@ -22,5 +22,7 @@ List for Services provided and functionality
 4) Delete cart with id
    <img width="1280" alt="Screenshot 2024-03-12 at 5 26 49 PM" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/625f674d-8b51-4813-a2b4-2db1c5f59e6f">
 
+5) Get user cart
+   <img width="1280" alt="Screenshot 2024-03-12 at 5 26 49 PM" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/2873e1f6-3fdc-45e1-8fd7-e20402cf5aca">
 
    
