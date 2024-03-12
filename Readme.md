@@ -1,0 +1,20 @@
+Cart
+
+SetUp
+
+1) To SetUp this project first download the project as zip file and open in an IDE that can support SpringBoot
+
+2) Run the main file that is the ProductProjectForSpringBootApplication.java file
+
+List for Services provided and functionality
+
+1) Get all cart Details
+    <img width="1280" alt="AllCarts" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/47617533-0d56-4a6d-9cf9-46b92a4181f0">
+
+2) get cart by ID
+  <img width="1280" alt="CartById" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/27ca8438-5947-46c1-b0ee-b493942e3fb5">
+  <img width="1280" alt="CartById2" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/c9ad6ee8-4bd8-457a-ac3e-843541ae73ba">
+
+3) Update Cart
+   <img width="1280" alt="updateCart" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/a5305780-d46f-404e-8711-5f60ed58c03a">
+   <img width="1280" alt="updateCart2" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/872927a7-4ff7-4b7d-9e2b-c06492bd5182">
