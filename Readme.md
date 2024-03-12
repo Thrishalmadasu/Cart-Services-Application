@@ -18,3 +18,9 @@ List for Services provided and functionality
 3) Update Cart
    <img width="1280" alt="updateCart" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/a5305780-d46f-404e-8711-5f60ed58c03a">
    <img width="1280" alt="updateCart2" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/872927a7-4ff7-4b7d-9e2b-c06492bd5182">
+   
+4) Delete cart with id
+   <img width="1280" alt="Screenshot 2024-03-12 at 5 26 49 PM" src="https://github.com/Thrishalmadasu/Cart-Services-Application/assets/101015184/625f674d-8b51-4813-a2b4-2db1c5f59e6f">
+
+
+   
